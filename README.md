@@ -1,2 +1,2 @@
-# CBFriendsCost
+# CBPhotoEditor
 CB Project
